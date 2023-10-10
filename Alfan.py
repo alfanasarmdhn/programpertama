@@ -1,0 +1,5 @@
+print ('Aku adalah Alfan')
+print ('Alamat saya Gg Enggano 2 Air Ruai')
+print ('Hobi saya adalah bermain game online')
+print ('Saya berasal dari MAN 1 BANGKA')
+print ('Saya lahir pada tanggal 12 Oktober 2005')
